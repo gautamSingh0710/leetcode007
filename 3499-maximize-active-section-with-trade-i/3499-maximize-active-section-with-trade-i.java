@@ -1,33 +1,34 @@
+import java.util.*;
+
 class Solution {
+
     public int maxActiveSectionsAfterTrade(String s) {
 
-        String t = "1" + s + "1";
-        int n = t.length();
-
-        int[] len = new int[n];
-        char[] type = new char[n];
-        int blocks = 0;
+        String d = "1" + s + "1";
+        char[] ch = d.toCharArray();
 
         // Make blocks
-        int i = 0;
-        while (i < n) {
-            char c = t.charAt(i);
-            int j = i;
+        ArrayList<String> blocks = new ArrayList<>();
 
-            while (j < n && t.charAt(j) == c) {
-                j++;
+        StringBuilder sb = new StringBuilder();
+        sb.append(ch[0]);
+
+        for (int i = 1; i < ch.length; i++) {
+
+            if (ch[i] == ch[i - 1]) {
+                sb.append(ch[i]);
+            } else {
+                blocks.add(sb.toString());
+                sb = new StringBuilder();
+                sb.append(ch[i]);
             }
-
-            type[blocks] = c;
-            len[blocks] = j - i;
-            blocks++;
-
-            i = j;
         }
+
+        blocks.add(sb.toString());
 
         // Count original ones
         int ones = 0;
-        for (i = 0; i < s.length(); i++) {
+        for (int i = 0; i < s.length(); i++) {
             if (s.charAt(i) == '1') {
                 ones++;
             }
@@ -36,13 +37,15 @@ class Solution {
         int ans = ones;
 
         // Try every surrounded 1-block
-        for (i = 1; i < blocks - 1; i++) {
+        for (int i = 1; i < blocks.size() - 1; i++) {
 
-            if (type[i] == '1' &&
-                type[i - 1] == '0' &&
-                type[i + 1] == '0') {
+            if (blocks.get(i).charAt(0) == '1'
+                    && blocks.get(i - 1).charAt(0) == '0'
+                    && blocks.get(i + 1).charAt(0) == '0') {
 
-                int gain = len[i - 1] + len[i + 1];
+                int gain = blocks.get(i - 1).length()
+                         + blocks.get(i + 1).length();
+
                 ans = Math.max(ans, ones + gain);
             }
         }
