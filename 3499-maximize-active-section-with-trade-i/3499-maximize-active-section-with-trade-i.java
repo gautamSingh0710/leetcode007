@@ -1,34 +1,33 @@
-import java.util.*;
-
 class Solution {
-
     public int maxActiveSectionsAfterTrade(String s) {
 
-        String d = "1" + s + "1";
-        char[] ch = d.toCharArray();
+        String t = "1" + s + "1";
+        int n = t.length();
+
+        int[] len = new int[n];
+        char[] type = new char[n];
+        int blocks = 0;
 
         // Make blocks
-        ArrayList<String> blocks = new ArrayList<>();
+        int i = 0;
+        while (i < n) {
+            char c = t.charAt(i);
+            int j = i;
 
-        StringBuilder sb = new StringBuilder();
-        sb.append(ch[0]);
-
-        for (int i = 1; i < ch.length; i++) {
-
-            if (ch[i] == ch[i - 1]) {
-                sb.append(ch[i]);
-            } else {
-                blocks.add(sb.toString());
-                sb = new StringBuilder();
-                sb.append(ch[i]);
+            while (j < n && t.charAt(j) == c) {
+                j++;
             }
-        }
 
-        blocks.add(sb.toString());
+            type[blocks] = c;
+            len[blocks] = j - i;
+            blocks++;
+
+            i = j;
+        }
 
         // Count original ones
         int ones = 0;
-        for (int i = 0; i < s.length(); i++) {
+        for (i = 0; i < s.length(); i++) {
             if (s.charAt(i) == '1') {
                 ones++;
             }
@@ -37,15 +36,13 @@ class Solution {
         int ans = ones;
 
         // Try every surrounded 1-block
-        for (int i = 1; i < blocks.size() - 1; i++) {
+        for (i = 1; i < blocks - 1; i++) {
 
-            if (blocks.get(i).charAt(0) == '1'
-                    && blocks.get(i - 1).charAt(0) == '0'
-                    && blocks.get(i + 1).charAt(0) == '0') {
+            if (type[i] == '1' &&
+                type[i - 1] == '0' &&
+                type[i + 1] == '0') {
 
-                int gain = blocks.get(i - 1).length()
-                         + blocks.get(i + 1).length();
-
+                int gain = len[i - 1] + len[i + 1];
                 ans = Math.max(ans, ones + gain);
             }
         }
