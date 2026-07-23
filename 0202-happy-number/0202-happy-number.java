@@ -3,24 +3,29 @@ import java.util.HashSet;
 class Solution {
     public boolean isHappy(int n) {
 
-        HashSet<Integer> set = new HashSet<>();
+    HashSet<Integer> set = new HashSet<>();
 
-        while (n != 1) {
-            if (set.contains(n)) {
-                return false;
-            }
-            set.add(n);
-            int sum = 0;
-            int temp = n;
-            while (temp > 0) {
-                int digit = temp % 10;
-                sum += digit * digit;
-                temp /= 10;
-            }
+    while (n != 1) {
 
-            n = sum;
+        if (set.contains(n))
+            return false;
+
+        set.add(n);
+
+        int sum = 0;
+
+        String s = String.valueOf(n);
+
+        for (int i = 0; i < s.length(); i++) {
+
+            int digit = s.charAt(i) - '0';
+
+            sum += digit * digit;
         }
 
-        return true;
+        n = sum;
     }
+
+    return true;
+}
 }
