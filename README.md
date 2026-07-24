@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/gautamSingh0710/leetcode007/tree/master/0215-kth-largest-element-in-an-array) |
 | [1260-shift-2d-grid](https://github.com/gautamSingh0710/leetcode007/tree/master/1260-shift-2d-grid) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/gautamSingh0710/leetcode007/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/gautamSingh0710/leetcode007/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/gautamSingh0710/leetcode007/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/gautamSingh0710/leetcode007/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -61,11 +63,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/gautamSingh0710/leetcode007/tree/master/0202-happy-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/gautamSingh0710/leetcode007/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/gautamSingh0710/leetcode007/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/gautamSingh0710/leetcode007/tree/master/0090-subsets-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/gautamSingh0710/leetcode007/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/gautamSingh0710/leetcode007/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Hash Table
 |  |
 | ------- |
