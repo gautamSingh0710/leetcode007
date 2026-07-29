@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/gautamSingh0710/leetcode007/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/gautamSingh0710/leetcode007/tree/master/0090-subsets-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gautamSingh0710/leetcode007/tree/master/0215-kth-largest-element-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gautamSingh0710/leetcode007/tree/master/0628-maximum-product-of-three-numbers) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/gautamSingh0710/leetcode007/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/gautamSingh0710/leetcode007/tree/master/0090-subsets-ii) |
 ## Binary Search
 |  |
