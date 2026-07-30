@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/gautamSingh0710/leetcode007/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/gautamSingh0710/leetcode007/tree/master/0052-n-queens-ii) |
 | [0090-subsets-ii](https://github.com/gautamSingh0710/leetcode007/tree/master/0090-subsets-ii) |
 ## Binary Search
 |  |
