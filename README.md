@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/gautamSingh0710/leetcode007/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/gautamSingh0710/leetcode007/tree/master/0704-binary-search) |
 | [1260-shift-2d-grid](https://github.com/gautamSingh0710/leetcode007/tree/master/1260-shift-2d-grid) |
+| [1406-stone-game-iii](https://github.com/gautamSingh0710/leetcode007/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gautamSingh0710/leetcode007/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/gautamSingh0710/leetcode007/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/gautamSingh0710/leetcode007/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/gautamSingh0710/leetcode007/tree/master/0202-happy-number) |
 | [0486-predict-the-winner](https://github.com/gautamSingh0710/leetcode007/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gautamSingh0710/leetcode007/tree/master/0628-maximum-product-of-three-numbers) |
+| [1406-stone-game-iii](https://github.com/gautamSingh0710/leetcode007/tree/master/1406-stone-game-iii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/gautamSingh0710/leetcode007/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/gautamSingh0710/leetcode007/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/gautamSingh0710/leetcode007/tree/master/3536-maximum-product-of-two-digits) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/gautamSingh0710/leetcode007/tree/master/0486-predict-the-winner) |
+| [1406-stone-game-iii](https://github.com/gautamSingh0710/leetcode007/tree/master/1406-stone-game-iii) |
 ## Recursion
 |  |
 | ------- |
@@ -114,4 +117,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/gautamSingh0710/leetcode007/tree/master/0486-predict-the-winner) |
+| [1406-stone-game-iii](https://github.com/gautamSingh0710/leetcode007/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
