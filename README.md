@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/gautamSingh0710/leetcode007/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/gautamSingh0710/leetcode007/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/gautamSingh0710/leetcode007/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Enumeration
@@ -91,10 +92,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/gautamSingh0710/leetcode007/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0202-happy-number](https://github.com/gautamSingh0710/leetcode007/tree/master/0202-happy-number) |
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/gautamSingh0710/leetcode007/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/gautamSingh0710/leetcode007/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/gautamSingh0710/leetcode007/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/gautamSingh0710/leetcode007/tree/master/0051-n-queens) |
