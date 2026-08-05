@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/gautamSingh0710/leetcode007/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0148-sort-list](https://github.com/gautamSingh0710/leetcode007/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/gautamSingh0710/leetcode007/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/gautamSingh0710/leetcode007/tree/master/0206-reverse-linked-list) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/gautamSingh0710/leetcode007/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0148-sort-list](https://github.com/gautamSingh0710/leetcode007/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/gautamSingh0710/leetcode007/tree/master/0202-happy-number) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/gautamSingh0710/leetcode007/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
