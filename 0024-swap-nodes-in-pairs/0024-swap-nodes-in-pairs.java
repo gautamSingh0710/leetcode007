@@ -4,23 +4,15 @@ class Solution {
         if (head == null || head.next == null)
             return head;
 
-        ListNode dummy = new ListNode(0);
-        dummy.next = head;
+        ListNode first = head;
+        ListNode second = head.next;
 
-        ListNode prev = dummy;
+        // Baaki list ko recursively swap karo
+        first.next = swapPairs(second.next);
 
-        while (prev.next != null && prev.next.next != null) {
+        // Pehle do nodes swap karo
+        second.next = first;
 
-            ListNode curr = prev.next;
-            ListNode next = curr.next;
-
-            curr.next = next.next;
-            next.next = curr;
-            prev.next = next;
-
-            prev = curr;
-        }
-
-        return dummy.next;
+        return second;
     }
 }
