@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/gautamSingh0710/leetcode007/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/gautamSingh0710/leetcode007/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/gautamSingh0710/leetcode007/tree/master/0328-odd-even-linked-list) |
+| [0382-linked-list-random-node](https://github.com/gautamSingh0710/leetcode007/tree/master/0382-linked-list-random-node) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/gautamSingh0710/leetcode007/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/gautamSingh0710/leetcode007/tree/master/0202-happy-number) |
+| [0382-linked-list-random-node](https://github.com/gautamSingh0710/leetcode007/tree/master/0382-linked-list-random-node) |
 | [0486-predict-the-winner](https://github.com/gautamSingh0710/leetcode007/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gautamSingh0710/leetcode007/tree/master/0628-maximum-product-of-three-numbers) |
 | [1406-stone-game-iii](https://github.com/gautamSingh0710/leetcode007/tree/master/1406-stone-game-iii) |
@@ -160,4 +162,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/gautamSingh0710/leetcode007/tree/master/0142-linked-list-cycle-ii) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/gautamSingh0710/leetcode007/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/gautamSingh0710/leetcode007/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
