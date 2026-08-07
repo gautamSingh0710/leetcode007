@@ -10,15 +10,7 @@ public class Solution {
 
             if (slow == fast) {
                 temp = slow;
-                break;
-            }
-        }
-
-        // No cycle
-        if (temp == null)
-            return null;
-
-        fast = head;
+              fast = head;
 
         while (fast != temp) {
             fast = fast.next;
@@ -26,5 +18,8 @@ public class Solution {
         }
 
         return fast;
+            }
+        }
+        return null;
     }
 }
