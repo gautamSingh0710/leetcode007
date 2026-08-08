@@ -6,30 +6,25 @@ class Solution {
         while (temp != null && temp.next != null) {
 
             ListNode n = temp;
-            ListNode next = temp.next;
+            int na = temp.val;
 
-            int a = n.val;
-            int b = next.val;
+            temp = temp.next;
+            int b = temp.val;
 
-            int gcd = 1;
+            int a = na;
 
-            // GCD find karna
-            for (int i = Math.min(a, b); i >= 1; i--) {
-                if (a % i == 0 && b % i == 0) {
-                    gcd = i;
-                    break;
-                }
+            // GCD using Euclidean Algorithm
+            while (b != 0) {
+                int rem = a % b;
+                a = b;
+                b = rem;
             }
 
-            // New node create
-            ListNode add = new ListNode(gcd);
+            ListNode add = new ListNode(a);
 
-            // Insert between n and next
             n.next = add;
-            add.next = next;
+            add.next = temp;
 
-            // Original next node par move
-            temp = next;
         }
 
         return head;
