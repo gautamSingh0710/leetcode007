@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/gautamSingh0710/leetcode007/tree/master/1260-shift-2d-grid) |
 | [1406-stone-game-iii](https://github.com/gautamSingh0710/leetcode007/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gautamSingh0710/leetcode007/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/gautamSingh0710/leetcode007/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/gautamSingh0710/leetcode007/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/gautamSingh0710/leetcode007/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3731-find-missing-elements](https://github.com/gautamSingh0710/leetcode007/tree/master/3731-find-missing-elements) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2181-merge-nodes-in-between-zeros](https://github.com/gautamSingh0710/leetcode007/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/gautamSingh0710/leetcode007/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/gautamSingh0710/leetcode007/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/gautamSingh0710/leetcode007/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gautamSingh0710/leetcode007/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0142-linked-list-cycle-ii](https://github.com/gautamSingh0710/leetcode007/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/gautamSingh0710/leetcode007/tree/master/0202-happy-number) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/gautamSingh0710/leetcode007/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3731-find-missing-elements](https://github.com/gautamSingh0710/leetcode007/tree/master/3731-find-missing-elements) |
 ## Backtracking
 |  |
