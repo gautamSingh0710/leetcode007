@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/gautamSingh0710/leetcode007/tree/master/0029-divide-two-integers) |
 | [0202-happy-number](https://github.com/gautamSingh0710/leetcode007/tree/master/0202-happy-number) |
 | [0382-linked-list-random-node](https://github.com/gautamSingh0710/leetcode007/tree/master/0382-linked-list-random-node) |
 | [0486-predict-the-winner](https://github.com/gautamSingh0710/leetcode007/tree/master/0486-predict-the-winner) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/gautamSingh0710/leetcode007/tree/master/0029-divide-two-integers) |
 | [0090-subsets-ii](https://github.com/gautamSingh0710/leetcode007/tree/master/0090-subsets-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/gautamSingh0710/leetcode007/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/gautamSingh0710/leetcode007/tree/master/3514-number-of-unique-xor-triplets-ii) |
