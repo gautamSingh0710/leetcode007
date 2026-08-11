@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/gautamSingh0710/leetcode007/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/gautamSingh0710/leetcode007/tree/master/0382-linked-list-random-node) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/gautamSingh0710/leetcode007/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/gautamSingh0710/leetcode007/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/gautamSingh0710/leetcode007/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/gautamSingh0710/leetcode007/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/gautamSingh0710/leetcode007/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/gautamSingh0710/leetcode007/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/gautamSingh0710/leetcode007/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/gautamSingh0710/leetcode007/tree/master/0234-palindrome-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/gautamSingh0710/leetcode007/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/gautamSingh0710/leetcode007/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Divide and Conquer
 |  |
