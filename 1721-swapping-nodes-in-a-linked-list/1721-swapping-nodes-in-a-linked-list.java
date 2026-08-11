@@ -1,56 +1,51 @@
-// /**
-//  * Definition for singly-linked list.
-//  * public class ListNode {
-//  *     int val;
-//  *     ListNode next;
-//  *     ListNode() {}
-//  *     ListNode(int val) { this.val = val; }
-//  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
-//  * }
-//  */
-// class Solution {
-//     public ListNode swapNodes(ListNode head, int k) {
-//         ListNode firs=head;
-//         ListNode Second=head;
-//         ListNode h=null;
-//         ListNode prev1=null;
-//         for(int i=0;i<k-1;i++){
-//             prev1=first;
-//             first=first.next;
-            
-//         }
-//         h=first;
-//         ListNode prev=null;
-//         while(first!=null){
-//             first=first.next;
-//             prev=second;
-//             second=second.next;
-            
-//         }
-//         prev1=second;
-//         second.next=prev;
-//         prev=first;
-//         first=second.next;
-
-//     }
-// }
-
 class Solution {
     public ListNode swapNodes(ListNode head, int k) {
+
+        ListNode dummy = new ListNode(0);
+        dummy.next = head;
+
         ListNode first = head;
         ListNode second = head;
-        ListNode kthFromStart = null;
-        for(int i = 0; i < k - 1; i++){
+
+        ListNode prev1 = dummy;
+
+        // kth node from beginning
+        for (int i = 1; i < k; i++) {
+            prev1 = first;
             first = first.next;
         }
-        kthFromStart = first;
-        while(first.next != null){
-            first = first.next;
+
+        // kth node from end
+        ListNode temp = first;
+        ListNode prev2 = dummy;
+
+        while (temp.next != null) {
+            temp = temp.next;
+            prev2 = second;
             second = second.next;
         }
-        int temp = kthFromStart.val;
-        kthFromStart.val = second.val;
-        second.val = temp;
-        return head;
+
+        // Nodes are adjacent
+        if (first.next == second) {
+            prev1.next = second;
+            first.next = second.next;
+            second.next = first;
+        }
+        else if (second.next == first) {
+            prev2.next = first;
+            second.next = first.next;
+            first.next = second;
+        }
+        else {
+            // Normal case
+            prev1.next = second;
+            prev2.next = first;
+
+            ListNode tempNext = first.next;
+            first.next = second.next;
+            second.next = tempNext;
+        }
+
+        return dummy.next;
     }
 }
