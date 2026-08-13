@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gautamSingh0710/leetcode007/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/gautamSingh0710/leetcode007/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/gautamSingh0710/leetcode007/tree/master/0131-palindrome-partitioning) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/gautamSingh0710/leetcode007/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/gautamSingh0710/leetcode007/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Enumeration
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/gautamSingh0710/leetcode007/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/gautamSingh0710/leetcode007/tree/master/0052-n-queens-ii) |
 | [0090-subsets-ii](https://github.com/gautamSingh0710/leetcode007/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/gautamSingh0710/leetcode007/tree/master/0131-palindrome-partitioning) |
 ## Binary Search
 |  |
 | ------- |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/gautamSingh0710/leetcode007/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/gautamSingh0710/leetcode007/tree/master/0131-palindrome-partitioning) |
 | [0486-predict-the-winner](https://github.com/gautamSingh0710/leetcode007/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/gautamSingh0710/leetcode007/tree/master/1406-stone-game-iii) |
 ## Recursion
