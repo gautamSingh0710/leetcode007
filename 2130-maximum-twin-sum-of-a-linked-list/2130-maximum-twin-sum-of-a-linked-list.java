@@ -7,32 +7,28 @@ class Solution {
         if (head.next == null)
             return head.val;
 
-        ListNode temp = head;
-
-        // length nikalna
-        int n = 0;
-        while (temp != null) {
-            n++;
-            temp = temp.next;
+        ListNode slow =head ;
+        ListNode fast=head;
+        while(fast!=null && fast.next!=null){
+            slow=slow.next;
+            fast=fast.next.next;
         }
-
-        int[] arr = new int[n];
-
-        temp = head;
-        int i = 0;
-
-        while (temp != null) {
-            arr[i++] = temp.val;
-            temp = temp.next;
+        ListNode prev=null;
+        while(slow!=null){
+            ListNode next=slow.next;
+            slow.next=prev;
+            prev=slow;
+            slow=next;
         }
-
-        int max = 0;
-
-        for (i = 0; i < n / 2; i++) {
-            int sum = arr[i] + arr[n - 1 - i];
-            max = Math.max(max, sum);
+        fast=head;
+        int max=0;
+        while(prev!=null){
+           int sum=fast.val+prev.val;
+            max=Math.max(max,sum);
+           fast=fast.next;
+           prev=prev.next;
         }
-
-        return max;
+      return max;
+       
     }
 }
