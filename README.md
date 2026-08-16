@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/gautamSingh0710/leetcode007/tree/master/1260-shift-2d-grid) |
 | [1406-stone-game-iii](https://github.com/gautamSingh0710/leetcode007/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gautamSingh0710/leetcode007/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2029-stone-game-ix](https://github.com/gautamSingh0710/leetcode007/tree/master/2029-stone-game-ix) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/gautamSingh0710/leetcode007/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/gautamSingh0710/leetcode007/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/gautamSingh0710/leetcode007/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/gautamSingh0710/leetcode007/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gautamSingh0710/leetcode007/tree/master/0628-maximum-product-of-three-numbers) |
 | [1406-stone-game-iii](https://github.com/gautamSingh0710/leetcode007/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/gautamSingh0710/leetcode007/tree/master/2029-stone-game-ix) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/gautamSingh0710/leetcode007/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/gautamSingh0710/leetcode007/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/gautamSingh0710/leetcode007/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/gautamSingh0710/leetcode007/tree/master/2029-stone-game-ix) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/gautamSingh0710/leetcode007/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Dynamic Programming
 |  |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/gautamSingh0710/leetcode007/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/gautamSingh0710/leetcode007/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/gautamSingh0710/leetcode007/tree/master/2029-stone-game-ix) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -214,4 +218,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/gautamSingh0710/leetcode007/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+## Greedy
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/gautamSingh0710/leetcode007/tree/master/2029-stone-game-ix) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/gautamSingh0710/leetcode007/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/gautamSingh0710/leetcode007/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/gautamSingh0710/leetcode007/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
