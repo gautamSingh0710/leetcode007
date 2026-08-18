@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/gautamSingh0710/leetcode007/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/gautamSingh0710/leetcode007/tree/master/0040-combination-sum-ii) |
+| [0048-rotate-image](https://github.com/gautamSingh0710/leetcode007/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/gautamSingh0710/leetcode007/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/gautamSingh0710/leetcode007/tree/master/0090-subsets-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gautamSingh0710/leetcode007/tree/master/0215-kth-largest-element-in-an-array) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/gautamSingh0710/leetcode007/tree/master/0048-rotate-image) |
 | [1260-shift-2d-grid](https://github.com/gautamSingh0710/leetcode007/tree/master/1260-shift-2d-grid) |
 ## Simulation
 |  |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/gautamSingh0710/leetcode007/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/gautamSingh0710/leetcode007/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/gautamSingh0710/leetcode007/tree/master/0202-happy-number) |
 | [0382-linked-list-random-node](https://github.com/gautamSingh0710/leetcode007/tree/master/0382-linked-list-random-node) |
 | [0486-predict-the-winner](https://github.com/gautamSingh0710/leetcode007/tree/master/0486-predict-the-winner) |
