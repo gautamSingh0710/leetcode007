@@ -19,21 +19,21 @@ class Solution {
         }
         ListNode second = slow.next;
         slow.next = null;
-        ListNode prev=null;
+        fast=null;
         while(second!=null){
          ListNode Next=second.next;
-         second.next=prev;
-         prev=second;
+         second.next=fast;
+         fast=second;
          second=Next;
         }
         temp=head;
-        while(prev!=null){
+        while(fast!=null){
             ListNode Next=temp.next;
-            ListNode n=prev.next;
-            temp.next=prev;
-            prev.next=Next;
+            ListNode n=fast.next;
+            temp.next=fast;
+            fast.next=Next;
             temp=Next;
-            prev=n;
+            fast=n;
         }
         return ;
     }
