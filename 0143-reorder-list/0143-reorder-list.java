@@ -1,45 +1,40 @@
+/**
+ * Definition for singly-linked list.
+ * public class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode() {}
+ *     ListNode(int val) { this.val = val; }
+ *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+ * }
+ */
 class Solution {
     public void reorderList(ListNode head) {
-
-        if (head == null || head.next == null)
-            return;
-
-        // 1. Find middle
-        ListNode slow = head;
-        ListNode fast = head;
-
-        while (fast != null && fast.next != null) {
-            slow = slow.next;
-            fast = fast.next.next;
+        ListNode temp=head;
+        ListNode slow=head;
+        ListNode fast=head;
+        while(fast!=null && fast.next!=null){
+            slow=slow.next;
+            fast=fast.next.next;
         }
-
-        // 2. Reverse second half
-        ListNode prev = null;
-        ListNode curr = slow.next;
-
+        ListNode second = slow.next;
         slow.next = null;
-
-        while (curr != null) {
-            ListNode next = curr.next;
-            curr.next = prev;
-            prev = curr;
-            curr = next;
+        ListNode prev=null;
+        while(second!=null){
+         ListNode Next=second.next;
+         second.next=prev;
+         prev=second;
+         second=Next;
         }
-
-        // 3. Merge both halves
-        ListNode first = head;
-        ListNode second = prev;
-
-        while (second != null) {
-
-            ListNode next1 = first.next;
-            ListNode next2 = second.next;
-
-            first.next = second;
-            second.next = next1;
-
-            first = next1;
-            second = next2;
+        temp=head;
+        while(prev!=null){
+            ListNode Next=temp.next;
+            ListNode n=prev.next;
+            temp.next=prev;
+            prev.next=Next;
+            temp=Next;
+            prev=n;
         }
+        return ;
     }
 }
