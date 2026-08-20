@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/gautamSingh0710/leetcode007/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/gautamSingh0710/leetcode007/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/gautamSingh0710/leetcode007/tree/master/0090-subsets-ii) |
+| [0169-majority-element](https://github.com/gautamSingh0710/leetcode007/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gautamSingh0710/leetcode007/tree/master/0215-kth-largest-element-in-an-array) |
 | [0486-predict-the-winner](https://github.com/gautamSingh0710/leetcode007/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/gautamSingh0710/leetcode007/tree/master/0540-single-element-in-a-sorted-array) |
@@ -89,11 +90,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/gautamSingh0710/leetcode007/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/gautamSingh0710/leetcode007/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/gautamSingh0710/leetcode007/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gautamSingh0710/leetcode007/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/gautamSingh0710/leetcode007/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/gautamSingh0710/leetcode007/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gautamSingh0710/leetcode007/tree/master/0215-kth-largest-element-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gautamSingh0710/leetcode007/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gautamSingh0710/leetcode007/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gautamSingh0710/leetcode007/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0138-copy-list-with-random-pointer](https://github.com/gautamSingh0710/leetcode007/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/gautamSingh0710/leetcode007/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/gautamSingh0710/leetcode007/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/gautamSingh0710/leetcode007/tree/master/0202-happy-number) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/gautamSingh0710/leetcode007/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/gautamSingh0710/leetcode007/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -167,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/gautamSingh0710/leetcode007/tree/master/0169-majority-element) |
 | [2029-stone-game-ix](https://github.com/gautamSingh0710/leetcode007/tree/master/2029-stone-game-ix) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/gautamSingh0710/leetcode007/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Dynamic Programming
@@ -238,4 +243,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/gautamSingh0710/leetcode007/tree/master/2029-stone-game-ix) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/gautamSingh0710/leetcode007/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
