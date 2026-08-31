@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0382-linked-list-random-node](https://github.com/gautamSingh0710/leetcode007/tree/master/0382-linked-list-random-node) |
 | [0486-predict-the-winner](https://github.com/gautamSingh0710/leetcode007/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gautamSingh0710/leetcode007/tree/master/0628-maximum-product-of-three-numbers) |
+| [0920-number-of-music-playlists](https://github.com/gautamSingh0710/leetcode007/tree/master/0920-number-of-music-playlists) |
 | [1406-stone-game-iii](https://github.com/gautamSingh0710/leetcode007/tree/master/1406-stone-game-iii) |
 | [2029-stone-game-ix](https://github.com/gautamSingh0710/leetcode007/tree/master/2029-stone-game-ix) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/gautamSingh0710/leetcode007/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/gautamSingh0710/leetcode007/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/gautamSingh0710/leetcode007/tree/master/0131-palindrome-partitioning) |
 | [0486-predict-the-winner](https://github.com/gautamSingh0710/leetcode007/tree/master/0486-predict-the-winner) |
+| [0920-number-of-music-playlists](https://github.com/gautamSingh0710/leetcode007/tree/master/0920-number-of-music-playlists) |
 | [1406-stone-game-iii](https://github.com/gautamSingh0710/leetcode007/tree/master/1406-stone-game-iii) |
 ## Recursion
 |  |
@@ -251,4 +253,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/gautamSingh0710/leetcode007/tree/master/0169-majority-element) |
+## Combinatorics
+|  |
+| ------- |
+| [0920-number-of-music-playlists](https://github.com/gautamSingh0710/leetcode007/tree/master/0920-number-of-music-playlists) |
 <!---LeetCode Topics End-->
