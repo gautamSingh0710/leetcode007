@@ -1,31 +1,60 @@
 class Solution {
+    
+    int goal, n, k;
+    long MOD = 1_000_000_007;
+    long[][] dp;
+
     public int numMusicPlaylists(int n, int goal, int k) {
         
-        long MOD = 1000000007;
-        
-        long[][] dp = new long[goal + 1][n + 1];
-        
-        // 0 length playlist aur 0 songs
-        dp[0][0] = 1;
-        
-        for (int i = 0; i < goal; i++) {
-            
+        this.n = n;
+        this.goal = goal;
+        this.k = k;
+
+        dp = new long[goal + 1][n + 1];
+
+        // Initialize with -1
+        for (int i = 0; i <= goal; i++) {
             for (int j = 0; j <= n; j++) {
-                
-                // Case 1: New song add
-                if (j < n) {
-                    dp[i + 1][j + 1] += dp[i][j] * (n - j);
-                    dp[i + 1][j + 1] %= MOD;
-                }
-                
-                // Case 2: Old song repeat
-                if (j > k) {
-                    dp[i + 1][j] += dp[i][j] * (j - k);
-                    dp[i + 1][j] %= MOD;
-                }
+                dp[i][j] = -1;
             }
         }
-        
-        return (int) dp[goal][n];
+
+        return (int) solve(0, 0);
+    }
+
+
+    private long solve(int length, int uniqueSongs) {
+
+        if (length == goal) {
+            return uniqueSongs == n ? 1 : 0;
+        }
+
+
+        if (dp[length][uniqueSongs] != -1) {
+            return dp[length][uniqueSongs];
+        }
+
+
+        long ways = 0;
+
+        // New song
+        if (uniqueSongs < n) {
+            ways += (n - uniqueSongs) 
+                    * solve(length + 1, uniqueSongs + 1);
+
+            ways %= MOD;
+        }
+
+
+        // Old song
+        if (uniqueSongs > k) {
+            ways += (uniqueSongs - k) 
+                    * solve(length + 1, uniqueSongs);
+
+            ways %= MOD;
+        }
+
+
+        return dp[length][uniqueSongs] = ways;
     }
 }
