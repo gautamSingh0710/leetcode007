@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/gautamSingh0710/leetcode007/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/gautamSingh0710/leetcode007/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/gautamSingh0710/leetcode007/tree/master/0131-palindrome-partitioning) |
+| [0856-score-of-parentheses](https://github.com/gautamSingh0710/leetcode007/tree/master/0856-score-of-parentheses) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/gautamSingh0710/leetcode007/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/gautamSingh0710/leetcode007/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Enumeration
@@ -218,12 +219,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/gautamSingh0710/leetcode007/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/gautamSingh0710/leetcode007/tree/master/0022-generate-parentheses) |
+| [0856-score-of-parentheses](https://github.com/gautamSingh0710/leetcode007/tree/master/0856-score-of-parentheses) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/gautamSingh0710/leetcode007/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/gautamSingh0710/leetcode007/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/gautamSingh0710/leetcode007/tree/master/0234-palindrome-linked-list) |
+| [0856-score-of-parentheses](https://github.com/gautamSingh0710/leetcode007/tree/master/0856-score-of-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/gautamSingh0710/leetcode007/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/gautamSingh0710/leetcode007/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
