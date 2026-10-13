@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/gautamSingh0710/leetcode007/tree/master/1260-shift-2d-grid) |
 | [1406-stone-game-iii](https://github.com/gautamSingh0710/leetcode007/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gautamSingh0710/leetcode007/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/gautamSingh0710/leetcode007/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/gautamSingh0710/leetcode007/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/gautamSingh0710/leetcode007/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/gautamSingh0710/leetcode007/tree/master/1920-build-array-from-permutation) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/gautamSingh0710/leetcode007/tree/master/0628-maximum-product-of-three-numbers) |
 | [0920-number-of-music-playlists](https://github.com/gautamSingh0710/leetcode007/tree/master/0920-number-of-music-playlists) |
 | [1406-stone-game-iii](https://github.com/gautamSingh0710/leetcode007/tree/master/1406-stone-game-iii) |
+| [1512-number-of-good-pairs](https://github.com/gautamSingh0710/leetcode007/tree/master/1512-number-of-good-pairs) |
 | [2029-stone-game-ix](https://github.com/gautamSingh0710/leetcode007/tree/master/2029-stone-game-ix) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/gautamSingh0710/leetcode007/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/gautamSingh0710/leetcode007/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/gautamSingh0710/leetcode007/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/gautamSingh0710/leetcode007/tree/master/0202-happy-number) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/gautamSingh0710/leetcode007/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
+| [1512-number-of-good-pairs](https://github.com/gautamSingh0710/leetcode007/tree/master/1512-number-of-good-pairs) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/gautamSingh0710/leetcode007/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3731-find-missing-elements](https://github.com/gautamSingh0710/leetcode007/tree/master/3731-find-missing-elements) |
 ## Backtracking
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/gautamSingh0710/leetcode007/tree/master/0169-majority-element) |
+| [1512-number-of-good-pairs](https://github.com/gautamSingh0710/leetcode007/tree/master/1512-number-of-good-pairs) |
 | [2029-stone-game-ix](https://github.com/gautamSingh0710/leetcode007/tree/master/2029-stone-game-ix) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/gautamSingh0710/leetcode007/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Dynamic Programming
