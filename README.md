@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/gautamSingh0710/leetcode007/tree/master/0090-subsets-ii) |
 | [0169-majority-element](https://github.com/gautamSingh0710/leetcode007/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gautamSingh0710/leetcode007/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/gautamSingh0710/leetcode007/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/gautamSingh0710/leetcode007/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/gautamSingh0710/leetcode007/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/gautamSingh0710/leetcode007/tree/master/0486-predict-the-winner) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/gautamSingh0710/leetcode007/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/gautamSingh0710/leetcode007/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gautamSingh0710/leetcode007/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/gautamSingh0710/leetcode007/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/gautamSingh0710/leetcode007/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gautamSingh0710/leetcode007/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gautamSingh0710/leetcode007/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/gautamSingh0710/leetcode007/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/gautamSingh0710/leetcode007/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/gautamSingh0710/leetcode007/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/gautamSingh0710/leetcode007/tree/master/0268-missing-number) |
 | [0382-linked-list-random-node](https://github.com/gautamSingh0710/leetcode007/tree/master/0382-linked-list-random-node) |
 | [0486-predict-the-winner](https://github.com/gautamSingh0710/leetcode007/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gautamSingh0710/leetcode007/tree/master/0628-maximum-product-of-three-numbers) |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/gautamSingh0710/leetcode007/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/gautamSingh0710/leetcode007/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/gautamSingh0710/leetcode007/tree/master/0090-subsets-ii) |
+| [0268-missing-number](https://github.com/gautamSingh0710/leetcode007/tree/master/0268-missing-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/gautamSingh0710/leetcode007/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/gautamSingh0710/leetcode007/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Hash Table
@@ -173,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/gautamSingh0710/leetcode007/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/gautamSingh0710/leetcode007/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/gautamSingh0710/leetcode007/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/gautamSingh0710/leetcode007/tree/master/0268-missing-number) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/gautamSingh0710/leetcode007/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1512-number-of-good-pairs](https://github.com/gautamSingh0710/leetcode007/tree/master/1512-number-of-good-pairs) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/gautamSingh0710/leetcode007/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -193,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/gautamSingh0710/leetcode007/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/gautamSingh0710/leetcode007/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/gautamSingh0710/leetcode007/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/gautamSingh0710/leetcode007/tree/master/0875-koko-eating-bananas) |
