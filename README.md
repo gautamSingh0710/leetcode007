@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/gautamSingh0710/leetcode007/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/gautamSingh0710/leetcode007/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/gautamSingh0710/leetcode007/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/gautamSingh0710/leetcode007/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/gautamSingh0710/leetcode007/tree/master/0090-subsets-ii) |
 | [0169-majority-element](https://github.com/gautamSingh0710/leetcode007/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gautamSingh0710/leetcode007/tree/master/0215-kth-largest-element-in-an-array) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/gautamSingh0710/leetcode007/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0086-partition-list](https://github.com/gautamSingh0710/leetcode007/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/gautamSingh0710/leetcode007/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/gautamSingh0710/leetcode007/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/gautamSingh0710/leetcode007/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/gautamSingh0710/leetcode007/tree/master/0148-sort-list) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/gautamSingh0710/leetcode007/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/gautamSingh0710/leetcode007/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/gautamSingh0710/leetcode007/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gautamSingh0710/leetcode007/tree/master/0215-kth-largest-element-in-an-array) |
