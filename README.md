@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/gautamSingh0710/leetcode007/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/gautamSingh0710/leetcode007/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gautamSingh0710/leetcode007/tree/master/0628-maximum-product-of-three-numbers) |
+| [0682-baseball-game](https://github.com/gautamSingh0710/leetcode007/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/gautamSingh0710/leetcode007/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/gautamSingh0710/leetcode007/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/gautamSingh0710/leetcode007/tree/master/0977-squares-of-a-sorted-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/gautamSingh0710/leetcode007/tree/master/0682-baseball-game) |
 | [1260-shift-2d-grid](https://github.com/gautamSingh0710/leetcode007/tree/master/1260-shift-2d-grid) |
 | [1920-build-array-from-permutation](https://github.com/gautamSingh0710/leetcode007/tree/master/1920-build-array-from-permutation) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/gautamSingh0710/leetcode007/tree/master/2181-merge-nodes-in-between-zeros) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/gautamSingh0710/leetcode007/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/gautamSingh0710/leetcode007/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/gautamSingh0710/leetcode007/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/gautamSingh0710/leetcode007/tree/master/0682-baseball-game) |
 | [0856-score-of-parentheses](https://github.com/gautamSingh0710/leetcode007/tree/master/0856-score-of-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/gautamSingh0710/leetcode007/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/gautamSingh0710/leetcode007/tree/master/2816-double-a-number-represented-as-a-linked-list) |
