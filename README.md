@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/gautamSingh0710/leetcode007/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gautamSingh0710/leetcode007/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/gautamSingh0710/leetcode007/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/gautamSingh0710/leetcode007/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/gautamSingh0710/leetcode007/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/gautamSingh0710/leetcode007/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/gautamSingh0710/leetcode007/tree/master/0486-predict-the-winner) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/gautamSingh0710/leetcode007/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/gautamSingh0710/leetcode007/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/gautamSingh0710/leetcode007/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/gautamSingh0710/leetcode007/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/gautamSingh0710/leetcode007/tree/master/0977-squares-of-a-sorted-array) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/gautamSingh0710/leetcode007/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/gautamSingh0710/leetcode007/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/gautamSingh0710/leetcode007/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/gautamSingh0710/leetcode007/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/gautamSingh0710/leetcode007/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/gautamSingh0710/leetcode007/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/gautamSingh0710/leetcode007/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gautamSingh0710/leetcode007/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/gautamSingh0710/leetcode007/tree/master/0977-squares-of-a-sorted-array) |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/gautamSingh0710/leetcode007/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/gautamSingh0710/leetcode007/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/gautamSingh0710/leetcode007/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/gautamSingh0710/leetcode007/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/gautamSingh0710/leetcode007/tree/master/0496-next-greater-element-i) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/gautamSingh0710/leetcode007/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1512-number-of-good-pairs](https://github.com/gautamSingh0710/leetcode007/tree/master/1512-number-of-good-pairs) |
@@ -217,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/gautamSingh0710/leetcode007/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/gautamSingh0710/leetcode007/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/gautamSingh0710/leetcode007/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/gautamSingh0710/leetcode007/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/gautamSingh0710/leetcode007/tree/master/0875-koko-eating-bananas) |
