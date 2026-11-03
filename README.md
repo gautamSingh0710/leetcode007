@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/gautamSingh0710/leetcode007/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/gautamSingh0710/leetcode007/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/gautamSingh0710/leetcode007/tree/master/0131-palindrome-partitioning) |
+| [0242-valid-anagram](https://github.com/gautamSingh0710/leetcode007/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/gautamSingh0710/leetcode007/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/gautamSingh0710/leetcode007/tree/master/0709-to-lower-case) |
 | [0856-score-of-parentheses](https://github.com/gautamSingh0710/leetcode007/tree/master/0856-score-of-parentheses) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/gautamSingh0710/leetcode007/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/gautamSingh0710/leetcode007/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gautamSingh0710/leetcode007/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/gautamSingh0710/leetcode007/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/gautamSingh0710/leetcode007/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/gautamSingh0710/leetcode007/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gautamSingh0710/leetcode007/tree/master/0628-maximum-product-of-three-numbers) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/gautamSingh0710/leetcode007/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/gautamSingh0710/leetcode007/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/gautamSingh0710/leetcode007/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/gautamSingh0710/leetcode007/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/gautamSingh0710/leetcode007/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/gautamSingh0710/leetcode007/tree/master/0496-next-greater-element-i) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/gautamSingh0710/leetcode007/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
