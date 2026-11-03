@@ -1,17 +1,15 @@
 class Solution {
     public int[] intersection(int[] nums1, int[] nums2) {
 
-        HashSet<Integer> hh = new HashSet<>();
+        HashMap<Integer, Integer> map = new HashMap<>();
         HashSet<Integer> ans = new HashSet<>();
 
         for(int i = 0; i < nums1.length; i++) {
-            if(!hh.contains(nums1[i])) {
-                hh.add(nums1[i]);
-            }
+            map.put(nums1[i], map.getOrDefault(nums1[i], 0) + 1);
         }
 
         for(int i = 0; i < nums2.length; i++) {
-            if(hh.contains(nums2[i])) {
+            if(map.containsKey(nums2[i])) {
                 ans.add(nums2[i]);
             }
         }
