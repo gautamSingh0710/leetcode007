@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/gautamSingh0710/leetcode007/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/gautamSingh0710/leetcode007/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/gautamSingh0710/leetcode007/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/gautamSingh0710/leetcode007/tree/master/0202-happy-number) |
