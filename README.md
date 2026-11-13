@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/gautamSingh0710/leetcode007/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/gautamSingh0710/leetcode007/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/gautamSingh0710/leetcode007/tree/master/0131-palindrome-partitioning) |
+| [0208-implement-trie-prefix-tree](https://github.com/gautamSingh0710/leetcode007/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/gautamSingh0710/leetcode007/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/gautamSingh0710/leetcode007/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/gautamSingh0710/leetcode007/tree/master/0709-to-lower-case) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/gautamSingh0710/leetcode007/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/gautamSingh0710/leetcode007/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/gautamSingh0710/leetcode007/tree/master/0202-happy-number) |
+| [0208-implement-trie-prefix-tree](https://github.com/gautamSingh0710/leetcode007/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/gautamSingh0710/leetcode007/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/gautamSingh0710/leetcode007/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/gautamSingh0710/leetcode007/tree/master/0349-intersection-of-two-arrays) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/gautamSingh0710/leetcode007/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/gautamSingh0710/leetcode007/tree/master/0225-implement-stack-using-queues) |
 | [0933-number-of-recent-calls](https://github.com/gautamSingh0710/leetcode007/tree/master/0933-number-of-recent-calls) |
 ## Queue
@@ -389,4 +392,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/gautamSingh0710/leetcode007/tree/master/0700-search-in-a-binary-search-tree) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/gautamSingh0710/leetcode007/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
