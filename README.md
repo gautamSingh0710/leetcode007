@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/gautamSingh0710/leetcode007/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/gautamSingh0710/leetcode007/tree/master/0709-to-lower-case) |
 | [0856-score-of-parentheses](https://github.com/gautamSingh0710/leetcode007/tree/master/0856-score-of-parentheses) |
+| [1544-make-the-string-great](https://github.com/gautamSingh0710/leetcode007/tree/master/1544-make-the-string-great) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/gautamSingh0710/leetcode007/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/gautamSingh0710/leetcode007/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Enumeration
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/gautamSingh0710/leetcode007/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/gautamSingh0710/leetcode007/tree/master/0682-baseball-game) |
 | [0856-score-of-parentheses](https://github.com/gautamSingh0710/leetcode007/tree/master/0856-score-of-parentheses) |
+| [1544-make-the-string-great](https://github.com/gautamSingh0710/leetcode007/tree/master/1544-make-the-string-great) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/gautamSingh0710/leetcode007/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/gautamSingh0710/leetcode007/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
