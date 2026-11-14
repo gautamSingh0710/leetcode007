@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/gautamSingh0710/leetcode007/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/gautamSingh0710/leetcode007/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/gautamSingh0710/leetcode007/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/gautamSingh0710/leetcode007/tree/master/0345-reverse-vowels-of-a-string) |
 | [0709-to-lower-case](https://github.com/gautamSingh0710/leetcode007/tree/master/0709-to-lower-case) |
 | [0856-score-of-parentheses](https://github.com/gautamSingh0710/leetcode007/tree/master/0856-score-of-parentheses) |
 | [1544-make-the-string-great](https://github.com/gautamSingh0710/leetcode007/tree/master/1544-make-the-string-great) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/gautamSingh0710/leetcode007/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/gautamSingh0710/leetcode007/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/gautamSingh0710/leetcode007/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/gautamSingh0710/leetcode007/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/gautamSingh0710/leetcode007/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/gautamSingh0710/leetcode007/tree/master/0977-squares-of-a-sorted-array) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/gautamSingh0710/leetcode007/tree/master/1721-swapping-nodes-in-a-linked-list) |
