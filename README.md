@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/gautamSingh0710/leetcode007/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/gautamSingh0710/leetcode007/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/gautamSingh0710/leetcode007/tree/master/0202-happy-number) |
+| [0263-ugly-number](https://github.com/gautamSingh0710/leetcode007/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/gautamSingh0710/leetcode007/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/gautamSingh0710/leetcode007/tree/master/0326-power-of-three) |
 | [0382-linked-list-random-node](https://github.com/gautamSingh0710/leetcode007/tree/master/0382-linked-list-random-node) |
