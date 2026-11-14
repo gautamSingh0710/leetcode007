@@ -1,45 +1,32 @@
 class Solution {
     public String reverseVowels(String s) {
-        int c = 0;
+        char a[] = s.toCharArray();
 
-        for(int i = 0; i < s.length(); i++) {
-            if(s.charAt(i)=='A' || s.charAt(i)=='E' || s.charAt(i)=='I' ||
-               s.charAt(i)=='O' || s.charAt(i)=='U' || s.charAt(i)=='a' ||
-               s.charAt(i)=='e' || s.charAt(i)=='i' || s.charAt(i)=='o' ||
-               s.charAt(i)=='u') {
-                c++;
+        int i = 0;
+        int j = a.length - 1;
+
+        while(i < j) {
+
+            if(a[i]!='A' && a[i]!='E' && a[i]!='I' && a[i]!='O' && a[i]!='U' &&
+               a[i]!='a' && a[i]!='e' && a[i]!='i' && a[i]!='o' && a[i]!='u') {
+                i++;
             }
-        }
 
-        char a[] = new char[c];
-        int k = 0;
-
-        for(int i = 0; i < s.length(); i++) {
-            if(s.charAt(i)=='A' || s.charAt(i)=='E' || s.charAt(i)=='I' ||
-               s.charAt(i)=='O' || s.charAt(i)=='U' || s.charAt(i)=='a' ||
-               s.charAt(i)=='e' || s.charAt(i)=='i' || s.charAt(i)=='o' ||
-               s.charAt(i)=='u') {
-                a[k] = s.charAt(i);
-                k++;
+            else if(a[j]!='A' && a[j]!='E' && a[j]!='I' && a[j]!='O' && a[j]!='U' &&
+                    a[j]!='a' && a[j]!='e' && a[j]!='i' && a[j]!='o' && a[j]!='u') {
+                j--;
             }
-        }
 
-        StringBuilder res = new StringBuilder();
-        k = c - 1;
-
-        for(int i = 0; i < s.length(); i++) {
-            if(s.charAt(i)=='A' || s.charAt(i)=='E' || s.charAt(i)=='I' ||
-               s.charAt(i)=='O' || s.charAt(i)=='U' || s.charAt(i)=='a' ||
-               s.charAt(i)=='e' || s.charAt(i)=='i' || s.charAt(i)=='o' ||
-               s.charAt(i)=='u') {
-                res.append(a[k]);
-                k--;
-            }
             else {
-                res.append(s.charAt(i));
+                char temp = a[i];
+                a[i] = a[j];
+                a[j] = temp;
+
+                i++;
+                j--;
             }
         }
 
-        return res.toString();
+        return new String(a);
     }
 }
