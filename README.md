@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/gautamSingh0710/leetcode007/tree/master/1260-shift-2d-grid) |
 | [1920-build-array-from-permutation](https://github.com/gautamSingh0710/leetcode007/tree/master/1920-build-array-from-permutation) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/gautamSingh0710/leetcode007/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2390-removing-stars-from-a-string](https://github.com/gautamSingh0710/leetcode007/tree/master/2390-removing-stars-from-a-string) |
 ## String
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/gautamSingh0710/leetcode007/tree/master/0709-to-lower-case) |
 | [0856-score-of-parentheses](https://github.com/gautamSingh0710/leetcode007/tree/master/0856-score-of-parentheses) |
 | [1544-make-the-string-great](https://github.com/gautamSingh0710/leetcode007/tree/master/1544-make-the-string-great) |
+| [2390-removing-stars-from-a-string](https://github.com/gautamSingh0710/leetcode007/tree/master/2390-removing-stars-from-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/gautamSingh0710/leetcode007/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/gautamSingh0710/leetcode007/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Enumeration
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/gautamSingh0710/leetcode007/tree/master/0856-score-of-parentheses) |
 | [1544-make-the-string-great](https://github.com/gautamSingh0710/leetcode007/tree/master/1544-make-the-string-great) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/gautamSingh0710/leetcode007/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2390-removing-stars-from-a-string](https://github.com/gautamSingh0710/leetcode007/tree/master/2390-removing-stars-from-a-string) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/gautamSingh0710/leetcode007/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
