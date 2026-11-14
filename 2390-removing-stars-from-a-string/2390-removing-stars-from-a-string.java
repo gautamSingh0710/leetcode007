@@ -12,7 +12,7 @@ class Solution {
             }
         }
         while(!st.isEmpty()){
-            res.append((char)st.pop());
+            res.append(st.pop());
         }
         return res.reverse().toString();
     }
