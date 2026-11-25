@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/gautamSingh0710/leetcode007/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/gautamSingh0710/leetcode007/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/gautamSingh0710/leetcode007/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/gautamSingh0710/leetcode007/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/gautamSingh0710/leetcode007/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/gautamSingh0710/leetcode007/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/gautamSingh0710/leetcode007/tree/master/0268-missing-number) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/gautamSingh0710/leetcode007/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/gautamSingh0710/leetcode007/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/gautamSingh0710/leetcode007/tree/master/0131-palindrome-partitioning) |
 | [0486-predict-the-winner](https://github.com/gautamSingh0710/leetcode007/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/gautamSingh0710/leetcode007/tree/master/0509-fibonacci-number) |
@@ -413,5 +415,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/gautamSingh0710/leetcode007/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/gautamSingh0710/leetcode007/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
