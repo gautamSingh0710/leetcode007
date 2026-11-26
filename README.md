@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/gautamSingh0710/leetcode007/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/gautamSingh0710/leetcode007/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/gautamSingh0710/leetcode007/tree/master/0051-n-queens) |
+| [0056-merge-intervals](https://github.com/gautamSingh0710/leetcode007/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/gautamSingh0710/leetcode007/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/gautamSingh0710/leetcode007/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/gautamSingh0710/leetcode007/tree/master/0090-subsets-ii) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/gautamSingh0710/leetcode007/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/gautamSingh0710/leetcode007/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/gautamSingh0710/leetcode007/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/gautamSingh0710/leetcode007/tree/master/0169-majority-element) |
@@ -422,4 +424,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/gautamSingh0710/leetcode007/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/gautamSingh0710/leetcode007/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/gautamSingh0710/leetcode007/tree/master/1137-n-th-tribonacci-number) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/gautamSingh0710/leetcode007/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
